@@ -1,0 +1,15 @@
+{
+  "name": "java-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out/vscode-java-build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/doronguttman/vscode-java-build.git",
+    "type": "git"
+  },
+  "author": "Doron Guttman",
+  "license": "MIT"
+}
